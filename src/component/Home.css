@@ -1,0 +1,17 @@
+.vd{
+    width: 1230px;
+    height:inherit;
+    margin-left: 60px;
+
+    
+   
+}
+.home{
+    
+ 
+  background-color: black;
+   padding-bottom: 56px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
